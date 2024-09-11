@@ -1,11 +1,2 @@
-DEMO DATA
-
-{
-[year] : {
-[month]: {
-1: 4,
-2: 5,
-3: 1
-}
-}
-}
+This is a Mood tracking app that let's you submit you're mood and track it over time.
+Made with Nextjs, Firebase and Tailwind css. 
